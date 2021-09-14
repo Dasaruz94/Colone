@@ -1,0 +1,19 @@
+Base de datos coche organizar a base mexicana.
+
+datos vehiculo: estado municipio
+
+habitos de manejo: donde estudias, donde trabajas
+
+lugares que frecuentas, cantida de recorrido
+
+cuentanos algo mas de ti: espacio en blanco.
+
+Notificación. 
+Renovacion de contrato
+pedir foto de evidencia
+tu pago se ha realizado.
+
+Perfil has ganado tanto.
+
+Contrato de usuario digital
+adecuarlo.

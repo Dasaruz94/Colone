@@ -1,0 +1,87 @@
+[25-Jul-2017 18:44:42 UTC] PHP Notice:  Undefined variable: total_money in /home/hilemur/public_html/sistema/views/finance.php on line 101
+[25-Jul-2017 18:44:42 UTC] PHP Notice:  Undefined variable: total_entry in /home/hilemur/public_html/sistema/views/finance.php on line 127
+[25-Jul-2017 18:44:42 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 130
+[25-Jul-2017 18:44:42 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 143
+[25-Jul-2017 18:44:42 UTC] PHP Notice:  Undefined variable: total_expenditure in /home/hilemur/public_html/sistema/views/finance.php on line 165
+[29-Aug-2017 21:14:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hilemur/public_html/sistema/views/menu.php:110) in /home/hilemur/public_html/sistema/views/finance.php on line 106
+[29-Aug-2017 21:14:27 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 132
+[29-Aug-2017 21:14:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hilemur/public_html/sistema/views/finance.php on line 134
+[29-Aug-2017 21:14:27 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/hilemur/public_html/sistema/views/finance.php on line 139
+[29-Aug-2017 21:14:27 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 160
+[29-Aug-2017 21:14:27 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 173
+[29-Aug-2017 21:14:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hilemur/public_html/sistema/views/finance.php on line 175
+[29-Aug-2017 21:14:27 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/hilemur/public_html/sistema/views/finance.php on line 180
+[29-Aug-2017 21:14:27 UTC] PHP Notice:  Undefined variable: id_finance in /home/hilemur/public_html/sistema/views/finance.php on line 201
+[22-Sep-2017 06:22:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:22:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:22:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:22:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:22:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:23:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:23:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[22-Sep-2017 06:23:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hilemur/public_html/sistema/views/vigilant.php on line 142
+[28-Sep-2017 16:26:08 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:26:08 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:26:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:28:59 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:28:59 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:28:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:01 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:01 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:01 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:09 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:09 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:10 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:10 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:11 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:11 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:14 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:14 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:16 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:16 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:29:25 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:25 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:29:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:21 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:21 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:29 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:29 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:31 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:31 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:32 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:32 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:33 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:33 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:34 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:34 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:38 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:42 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:42 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:47 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:47 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[28-Sep-2017 16:38:54 UTC] PHP Notice:  Undefined variable: countSugSql in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:54 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hilemur/public_html/sistema/views/menu.php on line 54
+[28-Sep-2017 16:38:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/views/menu.php on line 58
+[03-Oct-2017 18:51:46 UTC] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/views/users.php on line 96
+[03-Oct-2017 18:51:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/views/users.php on line 96

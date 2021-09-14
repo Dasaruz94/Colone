@@ -1,0 +1,777 @@
+[24-Aug-2017 13:54:58 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 13:54:58 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:05:29 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:12 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:13 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:19 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:39 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:42 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:06:43 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:07:10 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:07:12 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:10:19 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[24-Aug-2017 14:10:20 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 229
+[25-Aug-2017 00:24:53 America/Mexico_City] PHP Notice:  Undefined variable: name in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 347
+[28-Aug-2017 03:49:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:49:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:49:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:49:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:49:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:49:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:49:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:49:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:49:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:49:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 03:50:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 04:18:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 30
+[28-Aug-2017 04:18:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:18:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:18:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:18:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 04:19:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:19:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:19:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:19:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:19:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:22:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:22:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:22:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:22:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:22:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:22:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:22:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:22:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:22:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:22:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:25:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:25:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:25:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:25:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:25:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:26:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:26:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:26:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:26:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:26:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:28:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:28:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:28:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:28:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:28:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:35:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:35:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:35:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:35:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:35:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:37:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:37:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:37:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:37:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:37:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:38:25 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:38:25 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:38:25 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:38:25 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:38:25 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:48:21 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:51:34 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:52:20 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:53:32 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 51
+[28-Aug-2017 04:56:12 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:58:04 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:58:41 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 04:58:54 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 05:00:00 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$date in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 32
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 05:03:08 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 05:04:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 29
+[28-Aug-2017 05:04:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:04:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:04:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 34
+[28-Aug-2017 05:04:49 America/Mexico_City] PHP Notice:  Undefined variable: fecha in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 64
+[28-Aug-2017 05:05:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:05:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:05:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:05:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:06:24 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:06:24 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:06:24 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:06:24 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:06:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:06:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:06:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:06:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:06:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:06:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:06:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:06:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:07:18 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:07:18 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:07:18 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:07:18 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 58
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 58
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 61
+[28-Aug-2017 05:07:47 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 61
+[28-Aug-2017 05:09:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:09:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:09:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:09:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:09:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:09:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:09:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:09:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:10:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:10:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:10:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:10:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:10:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:10:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:10:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:10:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:12:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:12:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:12:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:12:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:12:45 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:13:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:13:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:13:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:13:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:13:15 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:16:04 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:17:33 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:02 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 53
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:04 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[28-Aug-2017 05:18:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:18:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:18:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:18:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:20:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:20:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:20:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:20:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:20:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:20:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:20:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:20:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:21:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:21:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:21:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:21:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:21:57 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 50
+[28-Aug-2017 05:22:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:22:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:22:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:22:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:22:08 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 50
+[28-Aug-2017 05:22:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:22:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:22:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:22:44 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:22:44 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 50
+[28-Aug-2017 05:23:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:23:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:23:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:23:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:23:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:23:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:23:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:23:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:24:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:24:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:24:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:24:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:24:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:24:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$subject in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:24:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_inicial in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 35
+[28-Aug-2017 05:24:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$hora_final in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 05:31:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:31:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:32:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:32:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:33:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:33:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:33:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:33:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:34:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:34:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:34:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:34:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:35:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:35:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:35:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:35:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:35:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:35:11 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:35:42 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:35:42 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:35:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:35:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:36:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:36:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:36:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:36:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:36:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:36:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:37:10 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:37:10 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:37:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:37:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:37:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:37:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:38:55 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:38:55 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:38:55 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 50
+[28-Aug-2017 05:39:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:39:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:39:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:39:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:40:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:40:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:40:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:40:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:41:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:41:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:42:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:42:01 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:42:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:42:56 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:45:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:45:54 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:46:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:46:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:49:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:49:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:49:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:49:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:50:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:50:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:50:48 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:50:48 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:51:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:51:29 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:51:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:51:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 10:53:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[28-Aug-2017 05:54:46 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:54:46 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:54:46 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[28-Aug-2017 05:54:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:54:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:54:50 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[28-Aug-2017 05:54:51 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:54:51 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:54:51 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[28-Aug-2017 05:56:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:56:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:56:38 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[28-Aug-2017 05:58:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:58:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:58:58 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:58:58 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 05:59:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 05:59:28 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:02:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 06:02:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:03:58 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 06:03:58 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:04:06 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 06:04:06 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:08:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[28-Aug-2017 06:08:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:08:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$horaSalida in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 36
+[28-Aug-2017 06:15:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:15:49 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:15:49 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 60
+[28-Aug-2017 06:15:49 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 60
+[28-Aug-2017 06:16:43 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:17:14 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:21:45 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[28-Aug-2017 06:22:27 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:22:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:22:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:25:42 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:25:42 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:26:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:26:47 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:27:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:27:41 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:29:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:29:00 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:29:00 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:29:09 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:29:09 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:29:09 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:29:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:29:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:29:35 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:30:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:30:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:30:03 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:30:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:30:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:30:22 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:31:05 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:31:05 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:31:05 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:31:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:31:30 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:31:30 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:32:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:32:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:32:22 America/Mexico_City] PHP Fatal error:  Call to a member function format() on string in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 49
+[04-Sep-2017 13:33:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:33:52 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 13:56:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 13:56:33 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 14:12:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 14:12:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 14:13:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 14:13:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[04-Sep-2017 14:13:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Sep-2017 14:13:31 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[08-Sep-2017 12:48:00 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 12:48:00 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:02:07 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:02:07 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:02:09 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:02:09 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:50 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:50 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:52 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:52 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:53 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:53 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:53 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:03:53 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 44
+[08-Sep-2017 13:32:03 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:32:57 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:33:18 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:33:49 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:35:54 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:46:10 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:46:22 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:46:39 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:46:42 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:46:43 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:47:34 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:47:34 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 55
+[08-Sep-2017 13:54:00 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 53
+[08-Sep-2017 13:54:00 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 55
+[08-Sep-2017 14:07:22 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 54
+[11-Sep-2017 13:50:04 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[11-Sep-2017 13:50:10 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[11-Sep-2017 13:50:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[11-Sep-2017 14:31:13 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[11-Sep-2017 14:31:24 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:45:37 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:50:23 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:50:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:51:15 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:51:41 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:52:37 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:53:02 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:57:06 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:57:27 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:58:23 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 12:59:34 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 13:01:35 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 13:02:18 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:15:53 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:20:36 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:20:46 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:20:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:21:17 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:22:06 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:22:20 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:26:12 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:38:19 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:45:58 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:46:08 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[13-Sep-2017 14:46:24 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[15-Sep-2017 12:59:19 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 12:59:19 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:00:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:00:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:02:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:02:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:03:07 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:03:07 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:03:07 America/Mexico_City] PHP Notice:  Undefined variable: horaInicio in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 44
+[15-Sep-2017 13:03:36 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:03:36 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:03:36 America/Mexico_City] PHP Notice:  Undefined variable: horaInicio in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 44
+[15-Sep-2017 13:04:19 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:04:19 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:09:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:09:02 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:09:43 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:09:43 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:09:43 America/Mexico_City] PHP Warning:  date_format() expects exactly 2 parameters, 3 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[15-Sep-2017 13:11:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:11:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:11:38 America/Mexico_City] PHP Warning:  date_format() expects exactly 2 parameters, 3 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[15-Sep-2017 13:11:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:11:57 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:11:57 America/Mexico_City] PHP Warning:  date() expects at most 2 parameters, 3 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[15-Sep-2017 13:18:59 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:18:59 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:20:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:20:50 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:23:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:23:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:25:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:25:15 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:25:15 America/Mexico_City] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[15-Sep-2017 13:25:15 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() expects parameter 2 to be DateTimeZone, boolean given' in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php:46
+Stack trace:
+#0 /home/hilemur/public_html/sistema/controllers/appServices/reserves.php(46): DateTime->__construct('1970-01-01T22:2...', false)
+#1 {main}
+  thrown in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 46
+[15-Sep-2017 13:28:26 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:28:26 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:33:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:33:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:33:16 America/Mexico_City] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 52
+[15-Sep-2017 13:34:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:34:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:34:22 America/Mexico_City] PHP Warning:  date_format() expects exactly 2 parameters, 3 given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 48
+[15-Sep-2017 13:34:51 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:34:51 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:36:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[15-Sep-2017 13:36:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[15-Sep-2017 13:36:37 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[19-Sep-2017 13:57:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[20-Sep-2017 13:45:06 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[20-Sep-2017 13:45:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:36 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:36 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:37 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:39 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:45:40 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:46:58 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[20-Sep-2017 13:51:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:51:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:51:03 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[20-Sep-2017 13:51:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:51:12 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 30
+[20-Sep-2017 13:51:13 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idPlace in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 31
+[20-Sep-2017 19:42:50 UTC] PHP Notice:  Undefined property: stdClass::$idUser in /home/hilemur/public_html/sistema/controllers/appServices/token.php on line 26
+[20-Sep-2017 19:56:55 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:56:55 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:56:55 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:56:55 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:57:30 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:57:30 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:57:30 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:57:30 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:07 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:07 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:07 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:07 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:12 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 19:58:20 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 168
+[20-Sep-2017 16:26:21 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[20-Sep-2017 16:26:21 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[20-Sep-2017 16:26:26 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[20-Sep-2017 16:26:26 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[20-Sep-2017 16:26:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[20-Sep-2017 16:26:32 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[20-Sep-2017 17:28:09 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[21-Sep-2017 18:09:38 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[21-Sep-2017 18:10:06 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[28-Sep-2017 12:37:00 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[30-Sep-2017 17:01:40 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[30-Sep-2017 17:03:04 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[30-Sep-2017 17:03:08 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[30-Sep-2017 17:03:10 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[02-Oct-2017 11:47:56 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[02-Oct-2017 11:52:01 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[02-Oct-2017 11:57:42 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$asunto in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 33
+[02-Oct-2017 11:57:42 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[02-Oct-2017 12:00:03 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[02-Oct-2017 12:00:43 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 62
+[02-Oct-2017 12:00:59 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[04-Oct-2017 11:52:59 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 184
+[04-Oct-2017 11:55:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 184
+[04-Oct-2017 12:01:11 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:02:50 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:11:31 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:19:33 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:21:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:22:50 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:23:23 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:23:27 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:24:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:25:09 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:25:28 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:25:36 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 12:30:37 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[04-Oct-2017 14:12:26 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:12:26 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[04-Oct-2017 14:13:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:13:22 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[04-Oct-2017 14:16:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:16:32 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 54
+[04-Oct-2017 14:16:32 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 59
+[04-Oct-2017 14:16:32 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 59
+[04-Oct-2017 14:17:08 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:17:08 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:18:05 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:18:05 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:18:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:18:53 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:19:32 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:19:32 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:19:43 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:19:43 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:20:07 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:20:07 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:22:35 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:22:35 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:26:10 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:26:10 America/Mexico_City] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 56
+[04-Oct-2017 14:26:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 14:27:16 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[04-Oct-2017 22:27:51 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[05-Oct-2017 15:12:46 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:20:05 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:20:38 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:21:06 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:22:13 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:25:09 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:25:25 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 15:25:29 America/Mexico_City] PHP Notice:  Undefined variable: horaFinal in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 55
+[05-Oct-2017 20:29:01 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 173
+[05-Oct-2017 20:29:05 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 173
+[05-Oct-2017 20:29:15 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 173
+[07-Oct-2017 14:29:35 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[07-Oct-2017 14:31:01 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[07-Oct-2017 14:33:55 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[07-Oct-2017 14:38:13 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[07-Oct-2017 14:39:15 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[07-Oct-2017 18:29:27 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$idSpace in /home/hilemur/public_html/sistema/controllers/appServices/reserves.php on line 31
+[07-Oct-2017 18:37:16 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[09-Oct-2017 11:34:32 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[09-Oct-2017 11:35:37 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[09-Oct-2017 11:35:44 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[09-Oct-2017 11:35:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[10-Oct-2017 12:27:41 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:27:46 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:27:53 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:28:32 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:28:34 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:28:35 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 12:28:35 America/Mexico_City] PHP Warning:  explode(): Empty delimiter in /home/hilemur/public_html/sistema/controllers/appServices/registro.php on line 64
+[10-Oct-2017 13:23:17 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[11-Oct-2017 10:43:48 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$correo in /home/hilemur/public_html/sistema/controllers/appServices/olvido.php on line 28
+[11-Oct-2017 10:43:53 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$correo in /home/hilemur/public_html/sistema/controllers/appServices/olvido.php on line 28
+[11-Oct-2017 11:50:02 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[11-Oct-2017 11:50:16 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[11-Oct-2017 11:50:29 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[11-Oct-2017 13:54:59 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[16-Oct-2017 10:04:22 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[17-Oct-2017 19:24:20 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[20-Oct-2017 12:59:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[29-Oct-2017 19:17:18 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84
+[19-Nov-2017 17:35:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$name in /home/hilemur/public_html/sistema/controllers/appServices/generateCode.php on line 32
+[06-Mar-2018 12:14:36 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hilemur/public_html/sistema/controllers/appServices/api.php on line 84

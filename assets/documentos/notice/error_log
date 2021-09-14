@@ -1,0 +1,12 @@
+[26-Feb-2018 19:15:39 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 117
+[26-Feb-2018 19:15:39 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 117
+[26-Feb-2018 19:15:39 UTC] PHP Warning:  include(libs/conexion.php): failed to open stream: No such file or directory in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 129
+[26-Feb-2018 19:15:39 UTC] PHP Warning:  include(): Failed opening 'libs/conexion.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 129
+[26-Feb-2018 19:15:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 132
+[26-Feb-2018 19:15:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 132
+[26-Feb-2018 19:16:11 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 117
+[26-Feb-2018 19:16:11 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 117
+[26-Feb-2018 19:16:11 UTC] PHP Warning:  include(libs/conexion.php): failed to open stream: No such file or directory in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 129
+[26-Feb-2018 19:16:11 UTC] PHP Warning:  include(): Failed opening 'libs/conexion.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 129
+[26-Feb-2018 19:16:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 132
+[26-Feb-2018 19:16:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hilemur/public_html/sistema/assets/documentos/notice/1_inicio.php on line 132

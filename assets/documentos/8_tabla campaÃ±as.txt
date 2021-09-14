@@ -1,0 +1,6 @@
+marca
+duración
+tipo de campaña (envoltura)
+ganancia
+dia de més
+foto de campaña
